@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<sliders>
+    <slider>
+        Outdoor sliders
+    </slider>
+    <plants>
+        <plant water="not much">Cactus</plant>
+         <plant water="some water">Coconut Palm</plant>
+          <plant water="a lot">Grass</plant>
+    </plants>
+</sliders>
